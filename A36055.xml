@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for the use of this famous, admirable and never-failing cordial drink. Keeping all sexes in their pristine health.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36055</idno>
+            <idno type="STC">Wing D1536</idno>
+            <idno type="STC">ESTC R213508</idno>
+            <idno type="EEBO-CITATION">99825875</idno>
+            <idno type="PROQUEST">99825875</idno>
+            <idno type="VID">30266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for the use of this famous, admirable and never-failing cordial drink. Keeping all sexes in their pristine health.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drinking of alcoholic beverages --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30266:1" rendition="simple:additions"/>
+            <head>Directions for the Uſe of this Famous, Admirable and Never-Failing <hi>CORDIAL DRINK.</hi>
+            </head>
+            <head type="sub">Keeping all Sexes in their Priſtine Health.</head>
+            <p n="1">1. ALL Ages, Sexes, Complexions, and Conſtitutions, may take it at any time of the Year, in Hot or Cold Seaſons, Sick or Well; It doth moſt perfectly Defend the Head from all Noiſom Va<g ref="char:EOLhyphen"/>pours and Fumes that continually aſcend from the Stomack: And tak<g ref="char:EOLhyphen"/>eth away Dizineſs or Megrim as hath been experienced. And for Healthy Perſons, or Aged, it Maintains, or Reſtores Strength, and keeps Nature from moſt Diſeaſes, making the Breath Sweet, the Body Luſty. Did the <hi>World but know</hi> what Benefit of Health this <hi>Cordial</hi> would afford them, they would eſteem it as their ſure <hi>Friend</hi> in time of Need; <hi>(that will not fail them:)</hi> I ſhall not need to nominate Particulars, or name a Multitude of Diſeaſes: but let its own Excellent Vertues ſhew forth its Praiſe. Therefore at this time I ſhall only ſet down the Directions how to take it.</p>
+            <p n="2">2. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rand <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>pers.</hi>
+               </note> And thoſe that expect to receive that benefit the Bill mentions, muſt obſerve and keep cloſe to the Papers Directions: And thoſe whoſe Diſtempers have Continued long upon them, or have taken hold, and perhaps grand Ones too; THE DOSE SHOULD NOT BE TOO LITTLE UPON A SETLED DISTEMPER, BUT SHOULD GO ON in the taking of it for ſome time. Their Bodies muſt be firſt Cleanſed by this Cordial, and then afterwards to expect the Effects and Operation of it.</p>
+            <p n="3">3. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to take it</hi>
+               </note> For any <hi>Diſtemper</hi> that you are troubled with (healthful or weak,) if your body be eaſily wrought upon, you may with great Safety Firſt begin to take one Spoonful of it, the laſt when you are ready to un<g ref="char:EOLhyphen"/>dreſs to go to Bed; and one Spoonful the firſt when you are riſen with your Clothes on in the Morning: If that work not 5 or 6 times, take 2 at Night, and 2 in the Morning: If not ſo many times, raiſe your Doſe according to your ſtrength, by taking 3 at Night, and 3 in the Morning, (*this is the <hi>Doſe</hi> that uſually is kept to,) working with all 4, 5, or 6. times; but that I would reach all Tempers by the above-ſaid Method, and that every one might find out the temper of their Body.</p>
+            <p>Neither Froſt nor Sun will hurt its if there be ſetlings in the bottom of the Glaſs, then pour out the Doſe that you intend to take as clear as you can. Meaſure what you take with a midling ſpoon brim full, into a little Cup or Glaſs, then drink it off.</p>
+            <p n="4">4. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anner of <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orking.</hi>
+               </note> The manner of its Operation is principally in evacuation by Siege, and provoking Urine: it worketh without making you ſick, or any trouble to the <hi>Tendereſt</hi> Patient. It doth not give many ſtools, neither doth it work violently or ſuddenly. Sometimes it openeth the Body 8, 10 or 12 hours after it is taken, ſometimes ſooner, according to the Diſpoſition of the Stomach and Body, without <hi>any Care, or any inconve<g ref="char:EOLhyphen"/>niency</hi> to enſue thereupon. You are not to take Poſſet-drink, or other thin Broths as is uſed with other Phyſick to make it work, wherein is its Great Excellency ſo fitted to all Natures, that it needs nothing to help it, but does <hi>moſt innocently</hi> ſearch all Obſtructive parts; and doth inſinuate it ſelf into the maſs of blood, purifying, it and becomes <hi>Maſter</hi> of the Diſtemper to admiration; you may eat or drink what you will; (an hour or two after it in the Morning) be Active and Chear<g ref="char:EOLhyphen"/>ful in your Buſineſs; Walk or Ride where you pleaſe, it hindereth <hi>No publick Imployment:</hi> If not, ſtir about as you uſe to do, I need not bid you keep your ſelves warm in Cold weather: (But be * ſure keep a good Diet.) MIND WHAT YOU READ, FOR IT IS TRUTH EXPERIENCED, WRIT WITH SERIOUS CONSIDE<g ref="char:EOLhyphen"/>RATION AS IF I WERE BY YOUR ELBOW.</p>
+            <p n="5">5. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee the <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>h of its <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>cts is be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing.</hi>
+               </note> As often as you take after the firſt or ſecond working, if you pleaſe, be ſure continue to obſerve it Conſtantly, that you may ſee the ſeveral Obſtructions come away, eſpecially the <hi>Crude, viſcous or ſlimy Humors, which are the original Cauſe</hi> of moſt Di<g ref="char:EOLhyphen"/>ſtempers, (roping tough Flegm) As in ſome black Choler, others green; in ſome yellow Choler; others the glaſs Flegm, or black and green, or green and yellow mixed, and the redundant water in the belly, if you are troubled with any of them, that you may ſee the truth, as well as feel it. It hath alſo that Excellent Quality, that it doth not bind the Body af<g ref="char:EOLhyphen"/>terwards, as other Phyſick doth.</p>
+            <p n="6">6. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>w Children <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d Aged are <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> take it.</hi>
+               </note> To an Infant in the Month take half a quarter of a ſpoonful, mix'd with double the quantity of ſmall Ale; at ſix, eight, or ten weeks old, the ſame quantity; if pritty ſtrong a quarter of a ſpoon<g ref="char:EOLhyphen"/>full, with double the quantity of Ale; If ſixteen weeks, half a year or three quarters, begin with a quarter, and double it with Ale; If pritty ſtrong, half a ſpoonful, with double the quantity of ſmall Ale; To a Child of a year old, or younger, begin with a quarter or half a ſpoonful, mix'd with double the quantity of ſmall Ale, and as you find the ſtrength of the Child, then give it one ſpoonful, mixt with double the quantity of ſmall Ale: unto a Child of 3 years old a Spoonful, with the ſame quantity of ſmall Ale: And unto one of four years of age almoſt one ſpoonful alone. To one of 7 years, one Spoonful. To one of 12 years of age one Spoonful and a half, always obſerving, that ſome Children are as ſtrong at 7 years, as others at 12. Obſerve further, That the ſtronger you find the Diſtemper is upon the Patient, and according to his ſtrength, give then ſomewhat the larger quantity (* <hi>not proceeding three ſpoonfuls</hi>) unto Man or Woman without mixture.</p>
+            <p n="7">7. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow you are <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> continue it <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>n a ſetled <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtemper.</hi>
+               </note> If you are able, take it two days together, and reſt a day or two, and to it again; and reſt again in that manner till your Pince is out; and as you ſee cauſe afterward, 1 day or 2 days together in a weak, till you find your ſelf better; or twice a week; after that, one day or two in a Formight: and ſo the like for them that are Aged, to take it according to their ſtrength, or as Children do: If it work in one day, above 5 or 6 times, take it but one day at a time: * For one may throw the Door off the Hinges if they will, if it work not 3 or 4 times in one day, take three ſpoonfuls according to the third Article: and if it work but two or three times in a day, Continue it the longer, or the oftner. For it will not fail, but be Maſter of <hi>all Obſtructions</hi> that are offenſive to Nature, <hi>as you may plainly ſee:</hi> Alſo there are weak Perſons like Children, whoſe Bodies are very Obſtructive, and hard to work upon, that may take 2 or 3 ſpoonfuls, and it will carry downwards that which worked not; (After that) <hi>Nature rejoyceth.</hi>
+            </p>
+            <p n="8">8. If the Perſon be Aged, or the Diſtemper be the Stone or Gravel, <note place="margin">
+                  <hi>For the Stone and Gravel.</hi>
+               </note> and have continued long upon them, they muſt begin with a Quart or two, ta<g ref="char:EOLhyphen"/>king it according to the ad, 3, and 7th Article, till your Quart or two be ſpent: And afterwards, at any time if you ſhould feel any pain on your Knees, or under your Ribs or Flank; then to it again for 2 or 3 days, and then it will vanquiſh it away, ſo that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall not come to a Fit; it will bring the Gravel away when they are well, as when they have a Fit: But ſome may not uſe it ſo often as others. It doth ſo cleanſe the Reins from <hi>all Foulneſs and Gravel,</hi> that they ſhall <hi>Never</hi> have the Stone in the Bladder; (* for it <hi>ſtifles</hi> it in its <hi>Birth.</hi>)</p>
+            <p n="9">9. It will <hi>Not fail to Kill</hi> the Raging Gout in <hi>its Full</hi> 
+               <note place="margin">
+                  <hi>For the Gout.</hi>
+               </note> 
+               <hi>Strength,</hi> for it draws and carries away from all parts of the Bo<g ref="char:EOLhyphen"/>dy thoſe Crude and Viſcous Humours, which are the Spawn of it: as you may ſee ☞ * <hi>Marvellous</hi> is the Operation in thoſe that take it for the Continuance of ſome time: according to the 2d, 3d, and 7th Article; Only forbear drinking in the Night when you are in Bed, and as little betwixt Meals as you can.</p>
+            <p n="10">10. It will not fail, <note place="margin">
+                  <hi>For Melan<g ref="char:EOLhyphen"/>cholly.</hi>
+               </note> *<hi>but perfectly Cure you</hi> of the Hypo<g ref="char:EOLhyphen"/>chondriack Melancholy, Commanding thoſe <hi>Choaking Puffs all</hi> downwards to their proper Paſſage, being moſt Friendly to Nature; For no Melancholy Humour <hi>Can ſtand or Remain</hi> in the Body, ta<g ref="char:EOLhyphen"/>king it according to the 2d, 3d, and 7th Article.</p>
+            <p n="11">11. It Cuts the very <hi>Sinews</hi> of Scurvies and Dropſies; <note place="margin">For Scurvies and Dropſies.</note> it purifies the Bones, Sinews and Veins, purging the Body in every part, from theſe and all other Diſtempers mentioned in the Bill, <hi>(under God it ne<g ref="char:EOLhyphen"/>ver Fails:)</hi> taking it according to the 2d, 3, and 7th Article.</p>
+            <p n="12">12. For the Cholick at Night and Morning; <note place="margin">
+                  <hi>For Cholicks and Gripings.</hi>
+               </note> but for the Griping of the Guts Night and Morning, and 2 or 3 times in the day, as your ſtrength will bear it, according to the 3d Article: It will <hi>not fail,</hi> but <hi>perfectly</hi> free you of the Cholick, or Griping of the Guts.</p>
+            <p n="13">13. This Cordial is a Remedy priſed <hi>Choice in the World,</hi> 
+               <note place="margin">
+                  <hi>Green Sick<g ref="char:EOLhyphen"/>neſs; to clear Complexions.</hi>
+               </note> and ſpeedy to cure the Virgin diſeaſe, commonly called the Green-fick<g ref="char:EOLhyphen"/>neſs in two days time, and in ſome ſooner, yet I would adviſe all to con<g ref="char:EOLhyphen"/>tinue it till their Bottle be out, for it is not ſafe to leave in the Body dregs behind; and with the uſe of it ſometimes they ſhall have their Monthly Viſits, to their great eaſe and ſatisfaction;</p>
+            <p>Or other Obſtructions relating to Women-kind, <note place="margin">
+                  <hi>Obſtructions, Barrenneſs, Miſcarriage.</hi>
+               </note> A very little time doth perfectly free them of thoſe inconveniencies, and helpeth Barrenneſs, if Coldneſs or Foulneſs be the Cauſe. And <hi>after Miſcarriage</hi> is an effectual Remedy to recover them to Health, though in danger of death, as hath been teſtified by them that <hi>proved and experien<g ref="char:EOLhyphen"/>ced it,</hi> taking the Cordial for theſe, according to the third Article.</p>
+            <p n="14">14. Alſo for any <hi>Dangerous</hi> Surfeits, two days will recover them; <note place="margin">
+                  <hi>For Surfeits, it ſtrengthens men if they do not abuſe it.</hi>
+               </note> and as for thoſe that love Corrowſing Cups, commonly called good fel<g ref="char:EOLhyphen"/>lows, this is a moſt ſure and ſafe Antidote <hi>for them at all times,</hi> if they love themſelves, and not to be covered over with ſhovels before their time.</p>
+            <p>It doth Cure the piſſing of Blood, <note place="margin">
+                  <hi>The Piſſing of Blood, or <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cerations, or Flux. All ſtoppages of the ſtomack or ſwellings of the Belly,</hi>
+               </note> proceeding from Ulcerations in the Kidneys, Reins or Bladder, or Excoriations by Stones or Gravel, 3 dayes will ſtop it; or a violent Flux 6 ſpoonfulls taking will ſtop it.</p>
+            <p>It taketh away all <hi>ſtoppages, or pains</hi> of the Stomack, and ſhortneſs of Breath, or any hardneſs or ſwelling of the Belly, take the Cordial for theſe according to the 3d Article.</p>
+            <p n="15">15. IF SOME SHOULD SAY, THESE ARE LARGE DIREC<g ref="char:EOLhyphen"/>TIONS TO BE OBSERVED; IN A WORD TO SUCH, I REFER THEM TO THE THIRD AND SEVENTH ARTICLE, WHICH IS THE SUM OF ALL FOR TAKING IT.</p>
+            <p>So that I need not to name other Diſtempers, <note place="margin">
+                  <hi>And many more that I cannot here inſert.</hi>
+               </note> but as they take it for one; <hi>So you may take it for all other,</hi> as is ſet down in the Bill; Taking it according to the 2d, 3d, and 7th Article; It pro<g ref="char:EOLhyphen"/>voketh a good Stomack, and turneth all into good nouriſhment: It doth taſte very pleaſant; A ſpoonful after Dinner, and ſo the like after Sup<g ref="char:EOLhyphen"/>per, will be a <hi>Great Preſervative,</hi> to prevent the aforeſaid Diſtempers.</p>
+            <p n="16">16. And He or She that deſires to live a Long life, and a Healthful, <note place="margin">
+                  <hi>Take it at the Spring and Fall.</hi>
+               </note> it will be convenient to take the Cordial one day or two in a Fortnights time; and in the Spring a Pint; and at the Fall a Pint: And this is my own Practice, that have gone through <hi>Unſpeakable</hi> Extremity: but do now enjoy moſt perfect Health, and my Joynts Nimble and Active: Yet notwithſtanding the Burnt Child will take heed of the Fire.</p>
+            <p>
+               <hi>And they that will follow theſe Directions, <note place="margin">
+                     <hi>Keep cloſe to theſe Directi<g ref="char:EOLhyphen"/>ons.</hi>
+                  </note> ſhall not fail of their Deſire.</hi>
+            </p>
+            <p n="17">17. To conclude, <note place="margin">
+                  <hi>Be Patient in uſing the means.</hi>
+               </note> Some there are that have had their Diſtempers upon them many years, and it may be, may think by taking this Cordial in a Week or two to be Cured; and if it proves not preſently, — then neglect and flight it.</p>
+            <p n="18">18. But to all ſuch Perſons, I ſay, <note place="margin">
+                  <hi>When you are helped, give God the glory.</hi>
+               </note> I had rather they would let my <hi>Cor<g ref="char:EOLhyphen"/>dial</hi> alone, and keep their Money. — For I Declare to the World, I ſet not out my Bills to make a Prey upon any. (I need it not.)</p>
+            <p>
+               <add>This water was firſt brought into Oxford 1673. 3<hi rend="sup">s</hi> half pint.</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
